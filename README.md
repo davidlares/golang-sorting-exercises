@@ -1,4 +1,4 @@
-# DavidSorting
+## DavidSorting
 
 Ejercicios de algoritmos de ordenamiento con GoLang, estos ejercicios pueden ser fácilmente replicables en otros lenguajes de programación
 
@@ -28,10 +28,8 @@ Cada uno tiene detalles en la forma de ejecución. Bastante complejo para explic
 
   go run [filename.go]
 
-## Creditos
-
- - [David E Lares](https://twitter.com/davidlares3)
+## Créditos
+[David E Lares S](https://davidlares.com)
 
 ## Licencia
-
- - [MIT](https://opensource.org/licenses/MIT)
+[MIT](https://opensource.org/licenses/MIT)
