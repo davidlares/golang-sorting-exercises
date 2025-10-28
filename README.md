@@ -1,35 +1,34 @@
-## DavidSorting
+## Sorting Exercises
 
-Ejercicios de algoritmos de ordenamiento con GoLang, estos ejercicios pueden ser fácilmente replicables en otros lenguajes de programación
+Sorting algorithm exercises with GoLang. These exercises can be easily replicated in other programming languages.
 
 ## Big O Notation
 
-Es un término bastante complicado y netamente orientado a las matemáticas, pero en pocas palabras es utilizado en la ciencias computacionales  para describir el rendimiento o complejidad de un algoritmo.
+This is a rather complicated and purely mathematically oriented term, but in a nutshell, it's used in computer science to describe the performance or complexity of an algorithm.
 
-Su ventajas se centran en:
+Its advantages are:
 
-- Describe el tiempo en términos de como crece el input (tamaño de la estructura o los elementos a trabajar)
-- Despeja la mayoría de las cosas no importantes del cálculos
+- It describes the time in terms of how the input grows (size of the structure or elements to be processed).
+- It eliminates most of the non-important computational issues.
 
-Aunque, es dificil definir el tiempo que tarda un algoritmo dependiendo del hardware
+Although it's difficult to define the time an algorithm takes it depends on the hardware.
 
+## Sorting Algorithms
 
-## Algoritmos de ordenamiento
+- Insertion Sort
+- Selection Sort
+- Bubble Sort
+- Merge Sort
+- Quick Sort
 
- - Insertion Sort
- - Selection Sort
- - Bubble Sort
- - Merge Sort
- - Quick Sort
+Each has specifics in its execution. Quite complex to explain in detail.
 
-Cada uno tiene detalles en la forma de ejecución. Bastante complejo para explicar en detalle.
+## Use 
 
-## Uso
+go run [filename.go]
 
-  go run [filename.go]
-
-## Créditos
+## Credits
 [David E Lares S](https://davidlares.com)
 
-## Licencia
+## License
 [MIT](https://opensource.org/licenses/MIT)
