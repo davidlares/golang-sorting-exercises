@@ -25,7 +25,7 @@ Each has specifics in its execution. Quite complex to explain in detail.
 
 ## Use 
 
-go run [filename.go]
+Run: `go run [filename.go]`
 
 ## Credits
 [David E Lares S](https://davidlares.com)
